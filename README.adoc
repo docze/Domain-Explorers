@@ -1,0 +1,36 @@
+= Domain Explorers 
+
+Miro board overview
+
+Event Storming Overview
+
+image:https://github.com/docze/Domain-Explorers/blob/main/eventStorming/Paczkomat%20-%20ES.jpg["Event Storming Overview"]
+
+ES - Załadunek skrzynkomatu
+
+image:https://github.com/docze/Domain-Explorers/blob/main/eventStorming/Paczkomat%20-%20Za%C5%82adunek%20skrzynkomatu.jpg["ES - Załadunek skrzynkomatu"]
+
+ES - Rozładunek
+
+image:https://github.com/docze/Domain-Explorers/blob/main/eventStorming/Paczkomat%20-%20Roz%C5%82adunek%20skrzynkomatu.jpg["ES - Rozładunek"]
+
+
+ES - Sposób odebrania przesyłki
+
+image:https://github.com/docze/Domain-Explorers/blob/main/eventStorming/Paczkomat%20-%20Spos%C3%B3b%20odebrania%20przesy%C5%82ki.jpg["ES - Sposób odebrania przesyłki"]
+
+
+ES - Zmasowany atak
+
+image:https://github.com/docze/Domain-Explorers/blob/main/eventStorming/Paczkomat%20-%20Odbi%C3%B3r%20Przesy%C5%82ki%20-%20Zmasowany%20atak.jpg["ES - Zmasowany atak"]
+
+ES - Mobile, QR, Skrzynkomat
+
+image:https://github.com/docze/Domain-Explorers/blob/main/eventStorming/Paczkomat%20-%20Odbi%C3%B3r%20przesy%C5%82ki%20-%20Mobile%2C%20QR%2C%20Skrznykomat.jpg["ES - Mobile, QR, Skrzynkomat"]
+
+ES - Weryfikacja upłynięcia 48h
+
+image:https://github.com/docze/Domain-Explorers/blob/main/eventStorming/Paczkomat%20-%20Weryfikacja%20up%C5%82yni%C4%99cia%2048h%20na%20odebranie%20przesy%C5%82ki.jpg["ES - Weryfikacja upłynięcia 48h"]
+
+Chamski link do miro bo github nie umnie asciidoc
+https://miro.com/app/board/o9J_kw9jUQ4=/
