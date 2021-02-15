@@ -32,5 +32,5 @@ ES - Weryfikacja upłynięcia 48h
 
 image:https://github.com/docze/Domain-Explorers/blob/main/eventStorming/Paczkomat%20-%20Weryfikacja%20up%C5%82yni%C4%99cia%2048h%20na%20odebranie%20przesy%C5%82ki.jpg["ES - Weryfikacja upłynięcia 48h"]
 
-Chamski link do miro bo github nie umnie asciidoc
-https://miro.com/app/board/o9J_kw9jUQ4=/
+
+https://miro.com/app/board/o9J_kw9jUQ4=/[Link do Miro]
